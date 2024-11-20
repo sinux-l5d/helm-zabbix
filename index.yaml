@@ -1,0 +1,31 @@
+apiVersion: v1
+entries:
+  zabbix:
+  - apiVersion: v2
+    appVersion: 7.0.5
+    created: "2024-11-20T15:49:42.153802716Z"
+    description: Zabbix is a mature and effortless enterprise-class open source monitoring
+      solution for network monitoring and application monitoring of millions of metrics.
+    digest: 0190266ce9b93bc77b250c222461b7f3dc2d487b35c454b82b607fdc1f9e806f
+    home: https://www.zabbix.com
+    icon: https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png
+    keywords:
+    - zabbix
+    - monitoring
+    - metrics
+    - kubernetes
+    - helm
+    maintainers:
+    - email: aeciopires@yahoo.com.br
+      name: Aecio Pires
+      url: https://github.com/aeciopires
+    - email: christian.anton@secadm.de
+      name: Christian Anton
+      url: https://secadm.de
+    name: zabbix
+    sources:
+    - https://github.com/zabbix-community/helm-zabbix
+    urls:
+    - https://github.com/sinux-l5d/helm-zabbix/releases/download/zabbix-6.1.0/zabbix-6.1.0.tgz
+    version: 6.1.0
+generated: "2024-11-20T15:49:42.153813988Z"
